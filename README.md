@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahil3554" alt="sahil3554" /></a> </p> -->
 
-- 🔭 I’m currently working on [My Protfolio WebSite](https://sahil-tagra.netlify.app/)
+<!-- - 🔭 I’m currently working on [My Protfolio WebSite](https://sahil-tagra.netlify.app/) -->
 
 - 🌱 I’m currently learning **GraphQL and Redux**
 
