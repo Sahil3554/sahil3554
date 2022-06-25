@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <!-- - 🔭 I’m currently working on [My Protfolio WebSite](https://sahil-tagra.netlify.app/) -->
 
-- 🌱 I’m currently learning **GraphQL and Redux**
+- 🌱 I’m currently learning **Microservices and AWS**
 
 - 👨‍💻 All of my projects are available at [https://sahil-tagra.netlify.app/](https://sahil-tagra.netlify.app/)
 
